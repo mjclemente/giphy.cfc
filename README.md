@@ -2,7 +2,7 @@
 A CFML wrapper for the [GIPHY API](https://developers.giphy.com/docs/).
 Search GIFs, translate to GIF, and more GIF goodness with GIPHY's API
 
-*Feel free to use the issue tracker to report bugs or suggest improvements!*
+This is a very early stage API wrapper. *Feel free to use the issue tracker to report bugs or suggest improvements!*
 
 ### Acknowledgements
 
