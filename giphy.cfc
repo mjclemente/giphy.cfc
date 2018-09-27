@@ -59,6 +59,14 @@ component displayname="giphycfc"  {
     return apiCall( 'GET', '/gifs/search', params );
   }
 
+  /**
+  * https://developers.giphy.com/docs/#operation--gifs-translate-get
+  * @hint The translate API draws on search, but uses the GIPHY special sauce to handle translating search words into to GIFs.
+  */
+  public struct function gifsTranslateGet( required string s ) {
+    return apiCall( 'GET', '/gifs/translate', { 's' : s } );
+  }
+
 
   // PRIVATE FUNCTIONS
   private struct function apiCall(
