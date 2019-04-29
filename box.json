@@ -1,0 +1,56 @@
+{
+  "name": "giphy.cfc",
+  "version": "0.0.1",
+  "author": "Matthew Clemente <mjclemente@gmail.com>",
+  "location": "mjclemente/giphy.cfc#v0.0.1",
+  "homepage": "https://github.com/mjclemente/giphy.cfc",
+  "documentation": "",
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/mjclemente/giphy.cfc"
+  },
+  "bugs": "https://github.com/mjclemente/giphy.cfc/issues",
+  "slug": "giphycfc",
+  "shortDescription": "A CFML wrapper for the GIPHY GIF API",
+  "description": "",
+  "instructions": "",
+  "changelog": "",
+  "type": "modules",
+  "keywords": "giphy, api, gif",
+  "private": false,
+  "projectURL": "",
+  "license": [
+    {
+      "type": "MIT",
+      "URL": "https://github.com/mjclemente/giphy.cfc/blob/master/LICENSE"
+    }
+  ],
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "installPaths": {},
+  "scripts": {},
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "testbox": {
+    "runner": [
+      {
+        "default": ""
+      }
+    ],
+    "labels": "",
+    "reporter": "",
+    "bundles": "",
+    "recurse": true,
+    "directory": "tests.specs",
+    "testBundles": "",
+    "testSuites": "",
+    "testSpecs": "",
+    "verbose": true,
+    "watchDelay": 500,
+    "watchPaths": "**.cfc"
+  }
+}
