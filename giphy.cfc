@@ -5,7 +5,7 @@
 */
 component displayname="giphycfc" {
 
-  variables._giphycfc_version = '0.0.1';
+  variables._giphycfc_version = '0.1.0';
 
   public any function init(
     string apiKey = '',
