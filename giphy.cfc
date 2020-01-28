@@ -1,6 +1,6 @@
 /**
 * giphycfc
-* Copyright 2018-2019  Matthew J. Clemente, John Berquist
+* Copyright 2018-2020  Matthew J. Clemente, John Berquist
 * Licensed under MIT (https://mit-license.org)
 */
 component displayname="giphycfc" {
