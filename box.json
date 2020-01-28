@@ -1,8 +1,8 @@
 {
   "name": "giphy.cfc",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Matthew Clemente <mjclemente@gmail.com>",
-  "location": "mjclemente/giphy.cfc#v0.1.0",
+  "location": "mjclemente/giphy.cfc#v0.1.2",
   "homepage": "https://github.com/mjclemente/giphy.cfc",
   "documentation": "",
   "repository": {
